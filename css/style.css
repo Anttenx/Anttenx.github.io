@@ -1,5 +1,22 @@
-a{
-    background-color:#35d07b;
-    color:#d0e4fe
+body{
+    background-color:#bdd4f3;
+}
 
+button.Luogu{
+    background-color:#00ffff;
+    color:#ffffff;
+    width:300px;
+    height:60px;
+    text-align:center,20px;
+    border-radius:8px;
+    border:none;
+}
+button.Luogu:hover{
+    background-color:#00ffff9c;
+    color:#ffffffbf;
+    width:300px;
+    height:60px;
+    text-align:center,20px;
+    border-radius:8px;
+    border:none;
 }
