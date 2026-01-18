@@ -4,7 +4,7 @@ body{
 
 button.Luogu{
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 12px;
   background-color: #f4511e;
   border: none;
   color: #FFFFFF;
